@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_parse_belta"
+        android:icon="@drawable/ic_action_belta"
+        android:title="@string/belta"/>
+    <item
+        android:id="@+id/action_parse_sputnik"
+        android:icon="@drawable/ic_action_sputnik"
+        android:title="@string/sputnik" />
+    <item
+        android:id="@+id/action_parse_mlyn"
+        android:icon="@drawable/ic_action_mlyn"
+        android:title="@string/mlyn" />
+</menu>
